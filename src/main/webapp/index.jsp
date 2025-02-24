@@ -205,7 +205,7 @@ button:hover {
 
 ---------------------------------------Sign-up Form(No CSS)----------------------------------
 <div class="container">
-<h1>Hello</h1>
+<h1>Hello World</h1>
 <h3>Sign in or <a href="register">Create an account</a></h3>
  <form:form method="post" id="loginForm" modelAttribute="login">
        <form:label path="username"><b>Username</b></form:label>
